@@ -1,0 +1,9 @@
+// pages/index.tsx
+export default function Home() {
+  return (
+    <div>
+      <h1>Bienvenue</h1>
+      <p>Application éducative de la lettre ب</p>
+    </div>
+  );
+}
